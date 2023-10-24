@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrish Mishra</h1>
 <h3 align="center">A CS enthusiast who loves tinkering with technology and making things work.I am currently a junior pursuing a bacherlors degree focusing on CS with specialization in Big Data Analytics. 🚀</h3>
 
-<p align="left"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="dedsec0098" /> </p>
+<p align="left"> <img src="[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)" alt="dedsec0098" /> </p>
 
 - 🔭 I’m currently working on [Blogs-Analysis-Lodash](https://github.com/Dedsec0098/Blogs-Analysis-Lodash.git)
 
