@@ -1,23 +1,9 @@
 <h1 align="center">Hey 👋</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=23&duration=4500&pause=1200&color=15E254F1&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Shrish's+Profile" alt="Typing SVG" /></a>
-<h3 align="center">A CS enthusiast who loves tinkering with technology and making things work.I am currently a junior pursuing a bacherlors degree focusing on CS with specialization in Big Data Analytics. 🚀</h3>
+<h3 align="center">An avid computer science enthusiast, driven by an unquenchable curiosity to explore technology's ever-evolving landscape, constantly pushing boundaries with a passion for coding, hardware, and software systems. They breathe life into their digital creations in this world of ones and zeros.</h3>
 
 <p align="center"> <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="dedsec0098" /> </p>
-
-- 🔭 I’m currently working on [Blogs-Analysis-Lodash](https://github.com/Dedsec0098/Blogs-Analysis-Lodash.git)
-
-- 🌱 I’m currently learning **React and Backend through Udemy course**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dedsec0098](https://github.com/Dedsec0098)
-
-- 📝 I regularly write articles on [https://medium.com/@shrish409](https://medium.com/@shrish409)
-
-- 💬 Ask me about **Frontend and Machine Learning**
-
-- 📫 How to reach me **shrish409@gmail.com**
-
-- 📄 Know about my experiences [bit.ly/shrish-mishra-portfolio](bit.ly/shrish-mishra-portfolio)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -38,4 +24,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedsec0098&show_icons=true&locale=en&layout=compact" alt="dedsec0098" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedsec0098&show_icons=true&locale=en" alt="dedsec0098" /></p>
+
+<hr>
+<a href="https://holopin.io/@dedsec0098">
+  <img src="https://holopin.me/dedsec0098" alt="Holopin">
+</a>
 
