@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=23&duration=4500&pause=1200&color=15E254F1&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Shrish's+Profile" alt="Typing SVG" /></a>
-<h3 align="center">An avid computer science enthusiast, driven by an unquenchable curiosity to explore technology.</h3>
+<h3 align="center">A learner who loves to try new things, makes mistake and learn from them , driven by curiosity to explore technology.</h3>
 
 <p align="center"> <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="dedsec0098" /> </p>
 
